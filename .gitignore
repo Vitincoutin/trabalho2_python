@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.matplotlib/
+saida/
+data/itens.json
+data/estoque.json
+data/movimentos.csv
+data/mps.json
+data/ordens.json
+data/operacao_ordem.json
+data/*.tmp

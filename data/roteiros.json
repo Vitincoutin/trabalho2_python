@@ -1,0 +1,8 @@
+{
+    "PA-001": {"centro": "CT-01", "tempo_unitario": "0.75"},
+    "PA-002": {"centro": "CT-01", "tempo_unitario": "0.90"},
+    "SA-010": {"centro": "CT-01", "tempo_unitario": "0.35"},
+    "SA-011": {"centro": "CT-01", "tempo_unitario": "0.40"},
+    "SA-100": {"centro": "CT-02", "tempo_unitario": "0.85"},
+    "SA-101": {"centro": "CT-02", "tempo_unitario": "1.00"}
+}

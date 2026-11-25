@@ -1,0 +1,12 @@
+{
+    "CT-01": {
+        "descricao": "Montagem de rodas e bicicletas",
+        "capacidade_semanal": "40",
+        "custo_hora": "48"
+    },
+    "CT-02": {
+        "descricao": "Preparação e soldagem de quadros",
+        "capacidade_semanal": "32",
+        "custo_hora": "65"
+    }
+}

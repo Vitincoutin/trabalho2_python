@@ -1,0 +1,142 @@
+[
+    {
+        "codigo": "PA-001",
+        "tipo": "PA",
+        "descricao": "Bicicleta urbana aro 26",
+        "unidade": "un",
+        "custo_unitario": 899,
+        "lead_time": 2,
+        "estoque_seguranca": 5,
+        "lote_minimo": 10
+    },
+    {
+        "codigo": "PA-002",
+        "tipo": "PA",
+        "descricao": "Bicicleta mountain bike aro 29",
+        "unidade": "un",
+        "custo_unitario": 1399,
+        "lead_time": 2,
+        "estoque_seguranca": 4,
+        "lote_minimo": 8
+    },
+    {
+        "codigo": "SA-010",
+        "tipo": "SA",
+        "descricao": "Conjunto de roda aro 26",
+        "unidade": "un",
+        "custo_unitario": 115,
+        "lead_time": 1,
+        "estoque_seguranca": 12,
+        "lote_minimo": 20
+    },
+    {
+        "codigo": "SA-011",
+        "tipo": "SA",
+        "descricao": "Conjunto de roda aro 29",
+        "unidade": "un",
+        "custo_unitario": 155,
+        "lead_time": 1,
+        "estoque_seguranca": 10,
+        "lote_minimo": 16
+    },
+    {
+        "codigo": "SA-100",
+        "tipo": "SA",
+        "descricao": "Quadro urbano aro 26",
+        "unidade": "un",
+        "custo_unitario": 210,
+        "lead_time": 2,
+        "estoque_seguranca": 10,
+        "lote_minimo": 20
+    },
+    {
+        "codigo": "SA-101",
+        "tipo": "SA",
+        "descricao": "Quadro mountain bike aro 29",
+        "unidade": "un",
+        "custo_unitario": 315,
+        "lead_time": 2,
+        "estoque_seguranca": 8,
+        "lote_minimo": 16
+    },
+    {
+        "codigo": "MP-102",
+        "tipo": "MP",
+        "descricao": "Aro de alumínio 26",
+        "unidade": "un",
+        "custo_unitario": 48,
+        "lead_time": 1,
+        "estoque_seguranca": 24,
+        "lote_minimo": 40
+    },
+    {
+        "codigo": "MP-103",
+        "tipo": "MP",
+        "descricao": "Aro de alumínio 29",
+        "unidade": "un",
+        "custo_unitario": 62,
+        "lead_time": 1,
+        "estoque_seguranca": 20,
+        "lote_minimo": 32
+    },
+    {
+        "codigo": "MP-104",
+        "tipo": "MP",
+        "descricao": "Pneu urbano aro 26",
+        "unidade": "un",
+        "custo_unitario": 43,
+        "lead_time": 1,
+        "estoque_seguranca": 24,
+        "lote_minimo": 40
+    },
+    {
+        "codigo": "MP-105",
+        "tipo": "MP",
+        "descricao": "Pneu mountain bike aro 29",
+        "unidade": "un",
+        "custo_unitario": 63,
+        "lead_time": 1,
+        "estoque_seguranca": 20,
+        "lote_minimo": 32
+    },
+    {
+        "codigo": "MP-106",
+        "tipo": "MP",
+        "descricao": "Cubo de roda universal",
+        "unidade": "un",
+        "custo_unitario": 32,
+        "lead_time": 1,
+        "estoque_seguranca": 32,
+        "lote_minimo": 50
+    },
+    {
+        "codigo": "MP-107",
+        "tipo": "MP",
+        "descricao": "Conjunto de raios para roda",
+        "unidade": "un",
+        "custo_unitario": 18,
+        "lead_time": 1,
+        "estoque_seguranca": 32,
+        "lote_minimo": 50
+    },
+    {
+        "codigo": "MP-108",
+        "tipo": "MP",
+        "descricao": "Tubo de alumínio para quadro",
+        "unidade": "m",
+        "custo_unitario": 38,
+        "lead_time": 1,
+        "estoque_seguranca": 50,
+        "lote_minimo": 100
+    },
+    {
+        "codigo": "MP-109",
+        "tipo": "MP",
+        "descricao": "Par de gancheiras para quadro",
+        "unidade": "par",
+        "custo_unitario": 28,
+        "lead_time": 1,
+        "estoque_seguranca": 20,
+        "lote_minimo": 40
+    }
+]
